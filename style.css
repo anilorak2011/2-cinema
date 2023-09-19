@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: grey
+}
+.logo{
+    height:100px;
+    width: 100px;
+}
+header h1 {
+    color: red;
+    text-align: center;
+    top: 20px;
+}
+nav a img{
+    position: absolute;
+    height: 80px;
+    top: 10px;
+    left: 20px;
+}
+td img{
+    height: 80px;
+}
+table, td, tr{
+    border: 5px solid white;
+    border-radius:10px ;
+    text-align: center;
+    color: blueviolet;
+}
+table{
+    position: absolute;
+    top: 100px;
+    left: 330px;
+}
+footer{
+    color:darkblue ;
+    position: absolute;
+    top:850px ;
+}
